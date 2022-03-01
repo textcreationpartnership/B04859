@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals concerning religion</title>
+            <author>Cromarty, George Mackenzie, Earl of, 1630-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04859</idno>
+            <idno type="STC">Wing P3717A</idno>
+            <idno type="STC">ESTC R182170</idno>
+            <idno type="EEBO-CITATION">52614856</idno>
+            <idno type="OCLC">ocm 52614856</idno>
+            <idno type="VID">176043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176043)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals concerning religion</title>
+                  <author>Cromarty, George Mackenzie, Earl of, 1630-1714.</author>
+                  <author>Cromarty, George Mackenzie, Earl of, 1630-1714. Proposals concerning the poor.</author>
+                  <author>Cromarty, George Mackenzie, Earl of, 1630-1714. Proposals concerning the African and Indian company.</author>
+                  <author>Cromarty, George Mackenzie, Earl of, 1630-1714. Proposals against robberies, sorning, and theft.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Scotland :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attribution and publication data from National Library of Scotland.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  Scotland --  Early works to 1800 --  Early works to 1800.</term>
+               <term>Scotland --  Social conditions --  17th century --  Early works to 1800.</term>
+               <term>Scotland --  Economic conditions --  17th century --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Early works to 1800 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals">
+            <pb n="1" facs="tcp:176043:1" rendition="simple:additions"/>
+            <head>PROPOSALS CONCERNING RELIGION</head>
+            <p>THere being many things fit to be conſidered in Par<g ref="char:EOLhyphen"/>liament, for the good of the Nation, and ſince Mat<g ref="char:EOLhyphen"/>ters are oftimes paſt over with too much haſt, or neglected, where leſſer things are ſupported by Clamour. To the effect that what has been humbly propoſed, may be conſidered by any who pleaſes to Reflect on them in calm Blood; And, e're they be Overtured by the Propoſer (or any other who pleaſes ſo to do) in the Houſe. Theſe things are moti<g ref="char:EOLhyphen"/>oned by one, Unbyaſſed in, or by Contention, or Humor.</p>
+            <p>That our Duty, the nature of the thing and his Majeſtie's Letter, requiring the maters of Religion, to be conſidered in the firſt place, and our Confeſſion of Faith being already recognized in ſtatute, our Kirk Government and Eccleſiaſtik Policy eſtabliſhed by Law, with Moderation to Peaceable tho' diſſenting Proteſtants, and cenſures appointed for Pro<g ref="char:EOLhyphen"/>fanity and Immoralities; There yet remains a great Evill, and a cauſe of many others <hi>viz.</hi> the unadverted, at leaſt
+<pb n="2" facs="tcp:176043:2"/>the unremedied evil of Vacant Churches; This Remedy, (but prejudice of others) is propoſed. That whenever a Kirk is Vacant by Death or Deprivation of the Incumbent, if the Heretors do not call a Miniſter thereto within <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Months after the vacancy occurs, that the Sheriff of the Shire be obliged to uplift the Vacant ſtipend; for the ſaid half Year (it not falling <hi>in Ann</hi>) and thereafter during the Vacancy, monethly in Proportion, and to ſecure the ſame as a ſtock on Land Security within the Shire, for the uſe of the Begging Poor within the Vacant Pariſh, <hi>viz.</hi> the Yearly Annual-Rent thereof, and the ſtock to continue al<g ref="char:EOLhyphen"/>ways as Mortified for that uſe, and that the Heretors, who do not concur in calling ſome Miniſter in the legall methods within the ſaids <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Moneths, ſhall pay Moneth<g ref="char:EOLhyphen"/>ly Ceſs according to their valued Rent, during their not calling a Miniſter; to be uplifted and applyed for the Poors uſe, in manner foreſaid; and in caſe of different Calls given in to Presbytries, the ſamen to be Judicialy diſcuſt before the Judges Competent, according to the preſent ſtanding Laws; and that the Heritors, who after legall calling of a Miniſter, ſhall not inſiſt within the ſpace <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> after the ſaid Call, in proſecution of that call, and if it come to an Appeal, who ſhall not inſiſt with diligence to have ſuch an Appeal diſcuſt in legal manner, and ſuch Heritors as ſhall not after their Call is legally rejected, of new call another Miniſter in manner foreſaid, ſhall be lyable to the Pains, and in manner foreſaid.</p>
+         </div>
+         <div type="proposals">
+            <pb n="3" facs="tcp:176043:2"/>
+            <head>PROPOSALS CONCERNING THE POOR.</head>
+            <p>THat all Burghs be obliged to take up all the Young Beggars within their Burgh and Pariſh, of either Sex, above four Years old, and under ten; and to imploy them in ſome Labour, whither of Trade, Husbandry Fiſhing or Hearding of Cattle: and that according to the former Laws, the Burgh may have the ſervice of all theſe ſo aſſumed till they be fortie five Years of Age, or rather dureing Life, but prejudice to any Heretor or other re<g ref="char:EOLhyphen"/>ſpo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al Perſon to ſeaze any ſuch Young Perſons, for their Privat uſe, if thay be the firſt Seazers: And the Perſons ſo to be aſſumed, to be Recorded in the Kirk Seſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on-Books, ſigned by the Miniſter, Clerk, and Elders as full Proof of their aſſumption with Prohibitons &amp;c. of Re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etting ſuch Servants.</p>
+         </div>
+         <div type="proposals">
+            <pb n="4" facs="tcp:176043:3"/>
+            <head>PROPOSALS CONCERNING The <hi>African</hi> and <hi>Indian</hi> Company.</head>
+            <p>FOR a new Encouragment to the <hi>African,</hi> and <hi>Indian</hi> Company; It's propoſed that his Majeſtie and Par<g ref="char:EOLhyphen"/>liament may extend their Immunity from all Taxes to any Portion of their ſtock Imployed in Fiſhing on that Companies account, As to the Import of Materialls for uſe of their Fiſherie, their Fiſh exported, and to the return of all goods, purchaſed with effects of their exported Fiſh: o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſufficient Evidence that it is ſo.</p>
+            <p>And farther, that in general, the Privileges of the for<g ref="char:EOLhyphen"/>mer Royal Company for Fiſhing be extended to all the Leidges, who ſhall ſtock, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>lib. Scots</hi> or upwards, on Fiſhing Trade; they all<g ref="char:EOLhyphen"/>ways having a Seal, in everie Company, for marking of their Fiſh, and that they be lyable to anſwer for the Loyall cureing of all exported Fiſh; under pain of Forfaulture of
+<pb n="5" facs="tcp:176043:3"/>the Value of what ſhall be found and proved to be un<g ref="char:EOLhyphen"/>loyalie cured; to any who ſhall diſcover, and prove the Faultineſs, before any Judge Competent; and Particu<g ref="char:EOLhyphen"/>larly, that all Foraigne Salt imployed on Fiſhing be abſo<g ref="char:EOLhyphen"/>lutly declared free of all duty, and the uſeleſs or rather hurtfull drawback, be caſt off. That Exportation of Wool be more ſtrictly forbid, and the Farmer or Collectors and Surveyers of Cuſtomes be lyable for the value of Wool Exported within their Diſtricts, and this Action to be declared Popular, and the fine to belong to the Purſuer.</p>
+            <p>That all <hi>French</hi> Wine be ſtrictly Prohibited, till <hi>France</hi> take off all Impoſts of our Fiſhes Imported to <hi>France;</hi> and till they reſtore us to our former Immunities, as the 50 <hi>Sous per</hi> Tun &amp;c.</p>
+            <p>That the Farming of Cuſtomes renders all Laws in Fa<g ref="char:EOLhyphen"/>vours of Native Manufactory, and Prohibitory of hurtfull Import, illuſory and of no effect. And therefore an Act for<g ref="char:EOLhyphen"/>bidding Farming of Cuſtoms, ſeems neceſſary.</p>
+         </div>
+         <div type="proposals">
+            <pb n="6" facs="tcp:176043:4"/>
+            <head>PROPOSALS AGAINST <hi>ROBBERIES, SORNING and THEFT.</hi>
+            </head>
+            <p>FOr the Peace of the Nation, eſpecialy for curbing of Robberies, Sorning and Theft; It is Propoſed, That the Juſticiary be re-eſtabliſhed, but their Authority, &amp; Exerciſe thereof, to be extended only to Robbery, Theft, and Sor<g ref="char:EOLhyphen"/>ning; and a prohibition of Intermedling with all other Commiſſarior Actions, And that the next adjacent of the Garriſons or Guards be obliged to aſſiſt the Legal Execu<g ref="char:EOLhyphen"/>tion of their Decreets, <hi>gratis;</hi> and the Commanding Officer in the place, be obliged to this concurrencie without waiting for Superior order.</p>
+            <p>
+               <hi>Item,</hi> That all Footmen be forbid to travell with Arms, un<g ref="char:EOLhyphen"/>der pain of Impriſonment, loſs of their Weapons, and ten pounds of fyne <hi>toties quoties.</hi>
+            </p>
+            <p>
+               <hi>Item</hi> that no Cowes, Horſe, Sheep, or Goats, be bought from <hi>Highlanders</hi> without <hi>Erugh</hi> and <hi>Ha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er,</hi> or a writen Teſtificat from their Land Lords of their being reſponſal for the value of the Goods ſold and exprin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in the Atteſt<g ref="char:EOLhyphen"/>ation.</p>
+            <pb n="7" facs="tcp:176043:4"/>
+            <p>Amongſt other true Grievances, it's Propoſed that the Parliament may take preſent Cognizance of thi That Gifts are procured and oftimes by obreption, from his Majeſtie, which affecting undetermined Subjects, are abuſ<g ref="char:EOLhyphen"/>ed to exceſſive damnage on multitudes of his Majeſtie's good Subjects to their <hi>enorm leſion;</hi> as particularlie, the Actions Purſued by <hi>Hary Dowglas,</hi> in a manner againſt the Whole Nation, without regaird to lyable or not lyable, And but Prejudice of farther Cenſure for ſo illegall an abuſe, It is Propoſed that all Perſons who ſhall be Aſſoilȝied from his Perſute, or who ſhall not be found lyable to any Summ on his Gift, ſhall without rebate pay the Parties Expence and damnage, at the Parties Oath, and that the Judge be ordained to determine accordingly in the defender's Fa<g ref="char:EOLhyphen"/>vours.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176043:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
